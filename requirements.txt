@@ -1,0 +1,6 @@
+pyecharts==0.5.5
+requests==2.18.4
+numpy==1.12.1
+pinyin==0.4.0
+PyMySQL==0.8.0
+beautifulsoup4==4.6.0
